@@ -5,3 +5,9 @@ This project documents the development of an autonomous quadrotor drone capable 
 The system combines a flight controller running ArduPilot with a Raspberry Pi companion computer that performs sensing and positioning tasks.
 
 The primary goal is to develop a reliable indoor navigation system using vision-based localization (and sensor integration).
+
+
+Project goals
+*Acheive Stable flight indoors without GPS
+*Use visual markers to estimate drone position
+*Intergrate Companion Computer proccessing with Ardupilot navigation
