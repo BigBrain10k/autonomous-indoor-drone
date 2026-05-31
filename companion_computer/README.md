@@ -9,3 +9,7 @@ GPS signal emulation for indoor testing
 Vision-based positioning
 
 Sensor processing
+
+** The Full localization and flight-controller integration script 
+  aruco_input_full.py
+is under vision
